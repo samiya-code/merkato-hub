@@ -72,3 +72,5 @@ export const ErrorState = ({
     </div>
   );
 };
+
+export default LoadingState;
